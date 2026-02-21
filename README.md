@@ -1,7 +1,7 @@
 # EXP-03-Implement-Breadth-First-Search-Traversal-of-a-Graph
 Breadth First Search Traversal of a Graph
-<h3>Name: Magesh raj P </h3>
-<h3>Register Number: 212224050010</h3>
+<h3>Name: MAGESHRAJ P </h3>
+<h3>Register Number: 212224250010</h3>
 
 AIM: 
 Theory: 
